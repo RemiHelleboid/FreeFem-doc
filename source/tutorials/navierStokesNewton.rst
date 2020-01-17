@@ -21,7 +21,7 @@ The Newton Algorithm to solve nonlinear problem is:
 
 Find :math:`u\in V` such that :math:`F(u)=0` where :math:`F : V \mapsto V`.
 
-1. choose :math:`u_0\in \mathbb{R}^n` , ;
+1. choose :math:`u_0\in \mathbb{R}^n` ;
 2. for ( :math:`i =0`; :math:`i` < niter; :math:`i = i+1`)
 
    1. solve :math:`DF(u_i) w_i = F(u_i)`;
